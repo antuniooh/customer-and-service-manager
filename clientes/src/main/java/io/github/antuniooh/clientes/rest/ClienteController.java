@@ -27,7 +27,6 @@ public class ClienteController {
         return repository.findAll();
     }
 
-
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public Cliente salvar( @RequestBody @Valid Cliente cliente ){
