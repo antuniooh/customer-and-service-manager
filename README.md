@@ -1,35 +1,74 @@
-# Clientes - Angular 9 + SpringBoot
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/antuniooh/customer-and-service-manager">
 
-Projeto desenvolvido ao longo da primeira parte do curso "Angular9 + Spring Boot". Consiste em um sistema de gerenciamento de clientes e serviços.
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/antuniooh/customer-and-service-manager">
+  
+  <a href="https://github.com/antuniooh/customer-and-service-manager/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/antuniooh/customer-and-service-manager">
+  </a>
+  
+   <img alt="GitHub" src="https://img.shields.io/github/license/antuniooh/customer-and-service-manager">
+</p>
 
-## Funcionalidade
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/antuniooh/customer-and-service-manager">
+    <img src="https://image.freepik.com/free-vector/illustration-list_53876-28518.jpg" alt="Logo" width="550">
+  </a>
+</p>
 
-Há uma API desenvolvida em Spring Boot, na qual é cadastrado/removido/editado no banco de dados os clientes e serviços, essa API também contêm uma autenticação de usuário. Além disso, toda a interface é feita com o usuário por meio de uma aplicação Angular que está consumindo esta API Java.
+<p align="center">
+  <img alt="Spring" src="https://img.shields.io/badge/SpringBoot-yellow?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-darkblue?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**1 - Login/Cadastro** - Assim que iniciada a aplicação, há uma tela onde o usuário deve se autenticar. Caso já tenha uma conta basta acessa-lá, caso contrário deve-se criar uma. 
 
-<img src = "images/login.png" width ="45%" /> <img src = "images/cadastro.png" width ="45%" /> 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#-about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#-how-to-run">How To Run</a>
+    </li>
+  </ol>
+</details>
 
-**2 - Cliente** - É possivel criar/remover/editar clientes.
 
-<img src = "images/create-client.png" width ="45%" /> <img src = "images/cadastro-ok.png" width ="45%" /> 
+<!-- ABOUT THE PROJECT -->
+## 💻 About The Project
+There is an API developed in Spring Boot, in which clients and services are registered/removed/edited in the database, this API also contains a user authentication. Furthermore, the entire interface is done with the user through an Angular application that is consuming this Java API.
 
-**3 - Serviço** - É possivel criar/remover/editar serviços, estes são associados a um cliente. Além de adicionar serviços, é possível consultar também, basta passar o nome do cliente e o mês.
+![app](https://github.com/antuniooh/contact-list-webapp/tree/main/images/app.gif)
 
-<img src = "images/servico-prestado.png" width ="45%" /> <img src = "images/consulta-servico.png" width ="45%" /> 
 
-**4 - Logout** - Caso se deseje sair da aplicação, basta clicar em logout
+<!-- HOW TO RUN -->
+## 🚀 How To Run
+On both Windows and Linux, the execution is done from an IDE of your choice, to run a Java API. The API will be running locally on port 8080.
 
-## Execução
-
-Tanto no Windows quanto no Linux a execução é feita a partir de uma IDE de sua preferência, para executar a API Java. 
-A API ficará rodando localmente na porta 8080.
-
-Além da API é necessário executar também a aplicação Angular. Para isso deve-se executar:
+In addition to the API, it is also necessary to run the Angular application. For this you must execute:
 
 ```bash
-npm install
-npm start
-```
 
-Esta por sua vez ficará hospedada na porta 4200.
+# Clone the repository
+$ git clone https://github.com/antuniooh/contact-list-webapp.git
+
+# Access the project folder in your terminal / cmd
+$ cd contact-list-webapp/agenda-app
+
+# Install libs
+$ npm install
+
+# Deploy 
+$ npm start
+
+```
+The project will be hosted at "localhost:4200"
