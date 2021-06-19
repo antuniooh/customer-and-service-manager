@@ -59,10 +59,10 @@ In addition to the API, it is also necessary to run the Angular application. For
 ```bash
 
 # Clone the repository
-$ git clone https://github.com/antuniooh/contact-list-webapp.git
+$ git clone https://github.com/antuniooh/customer-and-service-manager.git
 
 # Access the project folder in your terminal / cmd
-$ cd contact-list-webapp/agenda-app
+$ cd customer-and-service-manager/clientes-app
 
 # Install libs
 $ npm install
