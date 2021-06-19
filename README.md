@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/customer-and-service-manager">
-    <img src="https://image.freepik.com/free-vector/illustration-list_53876-28518.jpg" alt="Logo" width="550">
+    <img src="https://lh3.googleusercontent.com/proxy/2Of2DOJCGFjPSOFFjCZPShAnw8ojMHTMXlltTmWP2f0PIN0CJtTrY2XxQvzdsxynxJhJ5ib-p1ZF3kUA6BoCkWL6XM5oh43-lkM_5NMm" alt="Logo" width="550">
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 ## 💻 About The Project
 There is an API developed in Spring Boot, in which clients and services are registered/removed/edited in the database, this API also contains a user authentication. Furthermore, the entire interface is done with the user through an Angular application that is consuming this Java API.
 
-![app](https://github.com/antuniooh/contact-list-webapp/tree/main/images/app.gif)
+![app](https://github.com/antuniooh/customer-and-service-manager/blob/main/images/app.gif)
 
 
 <!-- HOW TO RUN -->
