@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/customer-and-service-manager">
-    <img src="https://previews.123rf.com/images/leilavi/leilavi1812/leilavi181200031/123180501-vector-illustration-concept-of-young-people-use-online-technical-support-customer-service-male-hotli.jpgm" alt="Logo" width="550">
+    <img src="https://previews.123rf.com/images/leilavi/leilavi1812/leilavi181200031/123180501-vector-illustration-concept-of-young-people-use-online-technical-support-customer-service-male-hotli.jpg" alt="Logo" width="550">
   </a>
 </p>
 
